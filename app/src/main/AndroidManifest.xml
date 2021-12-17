@@ -19,6 +19,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <meta-data
+            android:name="SymblAppId"
+            android:value="${Symbl_App_ID}" />
+        <meta-data
+            android:name="SymblAppSecret"
+            android:value="${Symbl_App_Secret}" />
     </application>
 
 </manifest>
