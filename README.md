@@ -1,5 +1,6 @@
 # Symbl-Demo-Android
 This is a Symbl.ai Demo Application to help the beginners get started.
+Specifically, this helps in generating Video Transcriptions in just one click.
 
 To use this application
 - Fork the repo and clone it in your system
